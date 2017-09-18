@@ -4,7 +4,7 @@ is a multi-line comment. This is a multi-line comment. */
 
 provider "aws" {
   access_key = "abc123"
-  secret_key = "abc123"
+  secret_key = "def456"
   region     = "us-east-1"
 }
 # This is a single-line comment.
